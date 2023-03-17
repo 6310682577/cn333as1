@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="GuessRandomNumber">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/GuessRandomNumber.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
