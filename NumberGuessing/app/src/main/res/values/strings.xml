@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NumberGuessing</string>
+    <string name="Title">NumberGuessing</string>
+    <string name="number">%s</string>
+    <string name="input"></string>
+    <string name="result">%s</string>
+    <string name="check">check</string>
+    <string name="count">guess: %s times</string>
+    <string name="reset">reset</string>
+</resources>
